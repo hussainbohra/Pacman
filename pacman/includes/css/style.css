@@ -1,1 +1,10 @@
-body{}
+body {
+  padding-left: 11em;
+  color: white;
+  background-color: #000000; 
+}
+.outerdiv{
+	width:1000px;
+	height:800px;
+	border:4px solid #ffffff;
+}
